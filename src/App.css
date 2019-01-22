@@ -22,6 +22,11 @@
   color: #61dafb;
 }
 
+.turn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .answer{
   background-color: #f0f7fd;
   border-color: #d0e3f0;
@@ -37,6 +42,12 @@
 .authorImage{
   width: 100%
 }
+
+.continue{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
